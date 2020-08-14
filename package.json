@@ -1,0 +1,17 @@
+{
+  "name": "ds-5mplayercount",
+  "version": "1.0.0",
+  "description": "Bot that updates a predefined channel in discord with a current player count of that server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "5M=update"
+  },
+  "author": "Whit3Xlightning",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request": "^2.48.5",
+    "discord.js": "^12.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
